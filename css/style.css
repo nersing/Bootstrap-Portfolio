@@ -61,6 +61,8 @@ h3{
 /*about me */
 .media-object{
 	margin-right:5px;
+	border:2px solid #F99A9A;
+	border-radius:20px;
 }
 
 
